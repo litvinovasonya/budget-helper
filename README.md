@@ -29,3 +29,7 @@
 
 
 Для запуска: main.py
+
+# Ссылка на видео
+
+https://drive.google.com/file/d/1ezRTAS7D7PxN2Yno8abDifYF8dvmI4iA/view?usp=drivesdk
